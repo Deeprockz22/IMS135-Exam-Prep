@@ -1,0 +1,19 @@
+#!/bin/bash
+# Daily study progress workflow
+
+echo "=== Daily Git Workflow ==="
+echo "After completing each day's study:"
+echo ""
+echo "1. Add all changes:"
+echo "   git add ."
+echo ""
+echo "2. Commit with progress message:"
+echo "   git commit -m \"Day X: [Topic] - [Key achievements]\""
+echo ""
+echo "3. Push to GitHub:"
+echo "   git push"
+echo ""
+echo "Example:"
+echo "git add ."
+echo "git commit -m \"Day 2: SVD Fundamentals - Completed matrix decomposition theory and image compression examples\""
+echo "git push"
