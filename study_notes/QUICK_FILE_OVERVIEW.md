@@ -15,7 +15,7 @@
 
 ### **⚡ ESSENTIAL FILES (Must Read):**
 
-#### **🎯 Day1_EXAM_Strategy_Guide.md** 
+#### **🎯 Day 1/Day1_EXAM_Strategy_Guide.md** 
 ```
 📖 What: Your exam strategy (MOST IMPORTANT)
 🎯 Purpose: What to memorize vs. utilize
@@ -23,7 +23,7 @@
 💡 Key Insight: 90% of code already provided!
 ```
 
-#### **🗺️ Day1_Exam_Navigation_Map.md**
+#### **🗺️ Day 1/Day1_Exam_Navigation_Map.md**
 ```
 📖 What: Problem → Code location mapping  
 🎯 Purpose: Your GPS during exam
@@ -31,7 +31,7 @@
 💡 Key Insight: Quick reference table for problems
 ```
 
-#### **📋 Day1_FINAL_Exam_Summary.md**
+#### **📋 Day 1/Day1_FINAL_Exam_Summary.md**
 ```
 📖 What: Strategic overview of everything
 🎯 Purpose: See how all materials connect
@@ -43,7 +43,7 @@
 
 ### **📚 LEARNING FILES (For Understanding):**
 
-#### **📚 Day1_COMPLETE_Visual_Study_Guide.md**
+#### **📚 Day 1/Day1_COMPLETE_Visual_Study_Guide.md**
 ```
 📖 What: Deep conceptual learning (10,000+ words)
 🎯 Purpose: Understand the WHY behind everything
@@ -51,7 +51,7 @@
 💡 Key Insight: Visual explanations + memory tricks
 ```
 
-#### **📊 Day1_Visual_Formula_Cheat_Sheet.md** 
+#### **📊 Day 1/Day1_Visual_Formula_Cheat_Sheet.md** 
 ```
 📖 What: Mathematical reference with examples
 🎯 Purpose: Formula lookup + worked calculations  
@@ -63,7 +63,7 @@
 
 ### **🚀 QUICK ACCESS FILES:**
 
-#### **🎴 Day1_Quick_Reference_Cards.md**
+#### **🎴 Day 1/Day1_Quick_Reference_Cards.md**
 ```
 📖 What: Flash cards for rapid review
 🎯 Purpose: Last-minute review + commute study
@@ -71,7 +71,7 @@
 💡 Key Insight: 10 cards covering key concepts
 ```
 
-#### **🖥️ Day1_Executable_Python_Reference.py**
+#### **🖥️ Day 1/Day1_Executable_Python_Reference.py**
 ```  
 📖 What: Complete working code demonstrations
 🎯 Purpose: Hands-on practice + confidence building
@@ -83,7 +83,7 @@
 
 ### **📖 OPTIONAL FILES:**
 
-#### **📘 Day1_Introduction.md**
+#### **📘 Day 1/Day1_Introduction.md**
 ```
 📖 What: Basic introduction and motivation
 🎯 Purpose: Get oriented (if you want background)
@@ -91,7 +91,7 @@
 💡 Key Insight: Sets the stage for your journey
 ```
 
-#### **✋ Day1_HandsOn_Practice.md** 
+#### **✋ Day 1/Day1_HandsOn_Practice.md** 
 ```
 📖 What: Additional practice problems  
 🎯 Purpose: Extra practice if needed
@@ -129,38 +129,38 @@ Files: Mobile-friendly format
 ## 🎯 **READING PRIORITY LEVELS**
 
 ### **🔴 CRITICAL (Must Read):**
-1. **Day1_EXAM_Strategy_Guide.md**
-2. **Day1_Exam_Navigation_Map.md**
+1. **Day 1/Day1_EXAM_Strategy_Guide.md**
+2. **Day 1/Day1_Exam_Navigation_Map.md**
 
 ### **🟡 IMPORTANT (Should Read):**  
-3. **Day1_FINAL_Exam_Summary.md**
-4. **Day1_COMPLETE_Visual_Study_Guide.md**
+3. **Day 1/Day1_FINAL_Exam_Summary.md**
+4. **Day 1/Day1_COMPLETE_Visual_Study_Guide.md**
 
 ### **🟢 HELPFUL (Nice to Read):**
-5. **Day1_Quick_Reference_Cards.md**
-6. **Day1_Visual_Formula_Cheat_Sheet.md** 
-7. **Day1_Executable_Python_Reference.py**
+5. **Day 1/Day1_Quick_Reference_Cards.md**
+6. **Day 1/Day1_Visual_Formula_Cheat_Sheet.md** 
+7. **Day 1/Day1_Executable_Python_Reference.py**
 
 ### **⚪ OPTIONAL (If Time Allows):**
-8. **Day1_Introduction.md**
-9. **Day1_HandsOn_Practice.md**
+8. **Day 1/Day1_Introduction.md**
+9. **Day 1/Day1_HandsOn_Practice.md**
 
 ---
 
 ## 📱 **MOBILE STUDY GUIDE**
 
 ### **📲 Perfect for Phone:**
-- ✅ Day1_Quick_Reference_Cards.md
-- ✅ Day1_FINAL_Exam_Summary.md
-- ✅ Day1_Exam_Navigation_Map.md
+- ✅ Day 1/Day1_Quick_Reference_Cards.md
+- ✅ Day 1/Day1_FINAL_Exam_Summary.md
+- ✅ Day 1/Day1_Exam_Navigation_Map.md
 
 ### **💻 Better on Computer:**
-- 🖥️ Day1_Executable_Python_Reference.py
-- 🖥️ Day1_COMPLETE_Visual_Study_Guide.md
+- 🖥️ Day 1/Day1_Executable_Python_Reference.py
+- 🖥️ Day 1/Day1_COMPLETE_Visual_Study_Guide.md
 
 ### **📄 Great Printed:**
-- 🖨️ Day1_Exam_Navigation_Map.md (bring to exam!)
-- 🖨️ Day1_Quick_Reference_Cards.md
+- 🖨️ Day 1/Day1_Exam_Navigation_Map.md (bring to exam!)
+- 🖨️ Day 1/Day1_Quick_Reference_Cards.md
 
 ---
 
@@ -168,18 +168,18 @@ Files: Mobile-friendly format
 
 ### **⚡ 2 HOURS AVAILABLE:**
 ```
-45 min: Day1_EXAM_Strategy_Guide.md
-30 min: Day1_Exam_Navigation_Map.md  
-15 min: Day1_FINAL_Exam_Summary.md
+45 min: Day 1/Day1_EXAM_Strategy_Guide.md
+30 min: Day 1/Day1_Exam_Navigation_Map.md  
+15 min: Day 1/Day1_FINAL_Exam_Summary.md
 30 min: Practice with python_help_notebook.ipynb
 ```
 
 ### **📚 4-5 HOURS AVAILABLE:**
 ```
 All of the above PLUS:
-90 min: Day1_COMPLETE_Visual_Study_Guide.md
-30 min: Day1_Visual_Formula_Cheat_Sheet.md
-15 min: Day1_Quick_Reference_Cards.md
+90 min: Day 1/Day1_COMPLETE_Visual_Study_Guide.md
+30 min: Day 1/Day1_Visual_Formula_Cheat_Sheet.md
+15 min: Day 1/Day1_Quick_Reference_Cards.md
 ```
 
 ### **🏆 6+ HOURS AVAILABLE:**
@@ -224,16 +224,16 @@ Read everything in the SOLID FOUNDATION sequence
 ## 🏁 **READY TO START?**
 
 ### **For Quick Wins:**
-👉 **Open: Day1_Quick_Reference_Cards.md**
+👉 **Open: Day 1/Day1_Quick_Reference_Cards.md**
 
 ### **For Strategic Mastery:**  
-👉 **Open: Day1_EXAM_Strategy_Guide.md**
+👉 **Open: Day 1/Day1_EXAM_Strategy_Guide.md**
 
 ### **For Complete Understanding:**
-👉 **Open: Day1_COMPLETE_Visual_Study_Guide.md**
+👉 **Open: Day 1/Day1_COMPLETE_Visual_Study_Guide.md**
 
 ### **For Overview:**
-👉 **Open: Day1_FINAL_Exam_Summary.md**
+👉 **Open: Day 1/Day1_FINAL_Exam_Summary.md**
 
 ---
 

@@ -14,16 +14,16 @@ Based on your time and goals, pick one of these sequences:
 
 ### **📋 SEQUENCE:**
 ```
-1️⃣ Day1_FINAL_Exam_Summary.md (15 min)
+1️⃣ Day 1/Day1_FINAL_Exam_Summary.md (15 min)
     ↳ Overview of entire strategy
 
-2️⃣ Day1_EXAM_Strategy_Guide.md (45 min) 
+2️⃣ Day 1/Day1_EXAM_Strategy_Guide.md (45 min) 
     ↳ Core exam approach - MOST IMPORTANT
 
-3️⃣ Day1_Exam_Navigation_Map.md (30 min)
+3️⃣ Day 1/Day1_Exam_Navigation_Map.md (30 min)
     ↳ Problem → Code mapping - YOUR GPS
 
-4️⃣ Day1_Quick_Reference_Cards.md (20 min)
+4️⃣ Day 1/Day1_Quick_Reference_Cards.md (20 min)
     ↳ Key concepts for memory
 
 5️⃣ Practice with python_help_notebook.ipynb (60 min)
@@ -41,28 +41,28 @@ Based on your time and goals, pick one of these sequences:
 
 ### **📋 SEQUENCE:**
 ```
-1️⃣ Day1_Introduction.md (10 min)
+1️⃣ Day 1/Day1_Introduction.md (10 min)
     ↳ Get oriented and motivated
 
-2️⃣ Day1_FINAL_Exam_Summary.md (15 min)  
+2️⃣ Day 1/Day1_FINAL_Exam_Summary.md (15 min)  
     ↳ Understand the complete strategy
 
-3️⃣ Day1_COMPLETE_Visual_Study_Guide.md (90 min)
+3️⃣ Day 1/Day1_COMPLETE_Visual_Study_Guide.md (90 min)
     ↳ Deep conceptual understanding
 
-4️⃣ Day1_EXAM_Strategy_Guide.md (45 min)
+4️⃣ Day 1/Day1_EXAM_Strategy_Guide.md (45 min)
     ↳ Master exam approach  
 
-5️⃣ Day1_Visual_Formula_Cheat_Sheet.md (30 min)
+5️⃣ Day 1/Day1_Visual_Formula_Cheat_Sheet.md (30 min)
     ↳ Mathematical reference
 
-6️⃣ Day1_Exam_Navigation_Map.md (30 min)
+6️⃣ Day 1/Day1_Exam_Navigation_Map.md (30 min)
     ↳ Problem recognition patterns
 
-7️⃣ Day1_Executable_Python_Reference.py (45 min)
+7️⃣ Day 1/Day1_Executable_Python_Reference.py (45 min)
     ↳ Hands-on verification
 
-8️⃣ Day1_Quick_Reference_Cards.md (15 min)
+8️⃣ Day 1/Day1_Quick_Reference_Cards.md (15 min)
     ↳ Final review and memorization
 ```
 
@@ -77,31 +77,31 @@ Based on your time and goals, pick one of these sequences:
 
 ### **📋 SEQUENCE:**
 ```
-1️⃣ Day1_Introduction.md (10 min)
+1️⃣ Day 1/Day1_Introduction.md (10 min)
     ↳ Set the foundation
 
-2️⃣ Day1_FINAL_Exam_Summary.md (20 min)
+2️⃣ Day 1/Day1_FINAL_Exam_Summary.md (20 min)
     ↳ Strategic overview
 
-3️⃣ Day1_COMPLETE_Visual_Study_Guide.md (120 min) 
+3️⃣ Day 1/Day1_COMPLETE_Visual_Study_Guide.md (120 min) 
     ↳ Complete conceptual mastery
 
-4️⃣ Day1_Visual_Formula_Cheat_Sheet.md (45 min)
+4️⃣ Day 1/Day1_Visual_Formula_Cheat_Sheet.md (45 min)
     ↳ Mathematical deep dive
 
-5️⃣ Day1_Executable_Python_Reference.py (60 min)
+5️⃣ Day 1/Day1_Executable_Python_Reference.py (60 min)
     ↳ Hands-on practice
 
-6️⃣ Day1_EXAM_Strategy_Guide.md (60 min)
+6️⃣ Day 1/Day1_EXAM_Strategy_Guide.md (60 min)
     ↳ Strategic approach mastery
 
-7️⃣ Day1_Exam_Navigation_Map.md (45 min)  
+7️⃣ Day 1/Day1_Exam_Navigation_Map.md (45 min)  
     ↳ Problem recognition expertise
 
-8️⃣ Day1_Quick_Reference_Cards.md (30 min)
+8️⃣ Day 1/Day1_Quick_Reference_Cards.md (30 min)
     ↳ Speed review mastery
 
-9️⃣ Day1_HandsOn_Practice.md (60 min)
+9️⃣ Day 1/Day1_HandsOn_Practice.md (60 min)
     ↳ Additional practice if needed
 ```
 
@@ -117,16 +117,16 @@ Based on your time and goals, pick one of these sequences:
 ### **📱 MOBILE SEQUENCE:**
 ```
 Week 1: Foundation Building
-📱 Day 1-2: Day1_Quick_Reference_Cards.md (bite-sized)
-📱 Day 3-4: Day1_FINAL_Exam_Summary.md (strategic overview)  
-📱 Day 5-7: Day1_COMPLETE_Visual_Study_Guide.md (sections)
+📱 Day 1-2: Day 1/Day1_Quick_Reference_Cards.md (bite-sized)
+📱 Day 3-4: Day 1/Day1_FINAL_Exam_Summary.md (strategic overview)  
+📱 Day 5-7: Day 1/Day1_COMPLETE_Visual_Study_Guide.md (sections)
 
 Week 2: Exam Focus  
-📱 Day 1-3: Day1_EXAM_Strategy_Guide.md (core approach)
-📱 Day 4-5: Day1_Exam_Navigation_Map.md (problem patterns)
-📱 Day 6-7: Day1_Visual_Formula_Cheat_Sheet.md (reference)
+📱 Day 1-3: Day 1/Day1_EXAM_Strategy_Guide.md (core approach)
+📱 Day 4-5: Day 1/Day1_Exam_Navigation_Map.md (problem patterns)
+📱 Day 6-7: Day 1/Day1_Visual_Formula_Cheat_Sheet.md (reference)
 
-Practice: Use Day1_Executable_Python_Reference.py at home
+Practice: Use Day 1/Day1_Executable_Python_Reference.py at home
 ```
 
 **🎯 Result:** Gradual mastery through daily commute  
@@ -149,17 +149,17 @@ Practice: Use Day1_Executable_Python_Reference.py at home
 ## 🎯 **ESSENTIAL DOCUMENTS (Must Read Regardless)**
 
 ### **🔴 ABSOLUTELY CRITICAL:**
-1. **Day1_EXAM_Strategy_Guide.md** - Your exam approach
-2. **Day1_Exam_Navigation_Map.md** - Your exam GPS
+1. **Day 1/Day1_EXAM_Strategy_Guide.md** - Your exam approach
+2. **Day 1/Day1_Exam_Navigation_Map.md** - Your exam GPS
 
 ### **🟡 HIGHLY RECOMMENDED:**  
-3. **Day1_FINAL_Exam_Summary.md** - Strategic overview
-4. **Day1_COMPLETE_Visual_Study_Guide.md** - Deep understanding
+3. **Day 1/Day1_FINAL_Exam_Summary.md** - Strategic overview
+4. **Day 1/Day1_COMPLETE_Visual_Study_Guide.md** - Deep understanding
 
 ### **🟢 SUPPORTIVE:**
-5. **Day1_Quick_Reference_Cards.md** - Fast review
-6. **Day1_Visual_Formula_Cheat_Sheet.md** - Mathematical reference
-7. **Day1_Executable_Python_Reference.py** - Hands-on practice
+5. **Day 1/Day1_Quick_Reference_Cards.md** - Fast review
+6. **Day 1/Day1_Visual_Formula_Cheat_Sheet.md** - Mathematical reference
+7. **Day 1/Day1_Executable_Python_Reference.py** - Hands-on practice
 
 ---
 

@@ -98,16 +98,17 @@ Deep dive through all materials with practice
 D:\IMS135\study_notes\
 ├── STUDY_SEQUENCE_GUIDE.md          ← Start here for reading order
 ├── QUICK_FILE_OVERVIEW.md            ← Quick file descriptions  
-├── Day1_EXAM_Strategy_Guide.md       ← MOST IMPORTANT exam strategy
-├── Day1_Exam_Navigation_Map.md       ← Problem → solution mapping
-├── Day1_FINAL_Exam_Summary.md        ← Strategic overview
-├── Day1_COMPLETE_Visual_Study_Guide.md ← Deep conceptual learning
-├── Day1_Visual_Formula_Cheat_Sheet.md ← Mathematical reference
-├── Day1_Quick_Reference_Cards.md     ← Flash cards for review
-├── Day1_Executable_Python_Reference.py ← Working code examples
-├── Day1_Introduction.md              ← Foundation material
-├── Day1_HandsOn_Practice.md          ← Extra practice
-└── README.md                         ← Repository overview
+├── README.md                         ← Folder organization guide
+└── Day 1/                            ← All Day 1 materials organized
+    ├── Day1_EXAM_Strategy_Guide.md       ← MOST IMPORTANT exam strategy
+    ├── Day1_Exam_Navigation_Map.md       ← Problem → solution mapping
+    ├── Day1_FINAL_Exam_Summary.md        ← Strategic overview
+    ├── Day1_COMPLETE_Visual_Study_Guide.md ← Deep conceptual learning
+    ├── Day1_Visual_Formula_Cheat_Sheet.md ← Mathematical reference
+    ├── Day1_Quick_Reference_Cards.md     ← Flash cards for review
+    ├── Day1_Executable_Python_Reference.py ← Working code examples
+    ├── Day1_Introduction.md              ← Foundation material
+    └── Day1_HandsOn_Practice.md          ← Extra practice
 ```
 
 ---
