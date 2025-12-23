@@ -99,16 +99,24 @@ D:\IMS135\study_notes\
 ├── STUDY_SEQUENCE_GUIDE.md          ← Start here for reading order
 ├── QUICK_FILE_OVERVIEW.md            ← Quick file descriptions  
 ├── README.md                         ← Folder organization guide
-└── Day 1/                            ← All Day 1 materials organized
-    ├── Day1_EXAM_Strategy_Guide.md       ← MOST IMPORTANT exam strategy
-    ├── Day1_Exam_Navigation_Map.md       ← Problem → solution mapping
-    ├── Day1_FINAL_Exam_Summary.md        ← Strategic overview
-    ├── Day1_COMPLETE_Visual_Study_Guide.md ← Deep conceptual learning
-    ├── Day1_Visual_Formula_Cheat_Sheet.md ← Mathematical reference
-    ├── Day1_Quick_Reference_Cards.md     ← Flash cards for review
-    ├── Day1_Executable_Python_Reference.py ← Working code examples
-    ├── Day1_Introduction.md              ← Foundation material
-    └── Day1_HandsOn_Practice.md          ← Extra practice
+├── Day 1/                            ← All Day 1 materials organized
+│   ├── Day1_EXAM_Strategy_Guide.md       ← MOST IMPORTANT exam strategy
+│   ├── Day1_Exam_Navigation_Map.md       ← Problem → solution mapping
+│   ├── Day1_FINAL_Exam_Summary.md        ← Strategic overview
+│   ├── Day1_COMPLETE_Visual_Study_Guide.md ← Deep conceptual learning
+│   ├── Day1_Visual_Formula_Cheat_Sheet.md ← Mathematical reference
+│   ├── Day1_Quick_Reference_Cards.md     ← Flash cards for review
+│   ├── Day1_Executable_Python_Reference.py ← Working code examples
+│   ├── Day1_Introduction.md              ← Foundation material
+│   └── Day1_HandsOn_Practice.md          ← Extra practice
+└── Day 2/                            ← All Day 2 SVD materials
+    ├── Day2_SVD_Strategy_Guide.md         ← Complete SVD theory & strategy
+    ├── Day2_SVD_Exam_Navigation_Map.md    ← SVD problem recognition & solving
+    ├── Day2_SVD_Quick_Reference_Cards.md  ← 12 SVD flash cards
+    ├── Day2_SVD_Visual_Formula_Sheet.md   ← SVD mathematical reference
+    ├── Day2_SVD_Executable_Python_Reference.py ← Working SVD code examples
+    ├── Day2_SVD_Final_Summary.md          ← Day 2 accomplishments & overview
+    └── DAY2_QUICK_START_GUIDE.md          ← How to access Day 2 materials
 ```
 
 ---
@@ -150,7 +158,7 @@ D:\IMS135\study_notes\
 - ✅ Complete study system creation
 
 ### **Days 2-17: PROGRESSIVE MASTERY**
-- Day 2: SVD (Singular Value Decomposition)
+- Day 2: SVD (Singular Value Decomposition) - ✅ COMPLETED
 - Day 3: PCA (Principal Component Analysis)
 - Days 4-7: Model Discovery & SINDy
 - Days 8-11: Advanced applications

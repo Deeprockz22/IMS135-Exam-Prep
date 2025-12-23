@@ -17,6 +17,14 @@ Complete Day 1 learning materials (9 files total):
 - Quick reference and practice files
 - Mathematical formulas and working code
 
+### **📁 Day 2 Folder - SVD Mastery:**
+Complete Day 2 SVD materials (7 files total):
+- SVD theory and strategic exam approach
+- Problem recognition and navigation maps
+- Working code examples and demonstrations
+- Mathematical formulas and visual guides
+- Quick start guide for efficient access
+
 ---
 
 ## 🚀 **HOW TO USE THIS STRUCTURE**
